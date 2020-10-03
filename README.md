@@ -1,2 +1,2 @@
 # data-512
-Coursework related to DATA51
+Coursework related to DATA512
