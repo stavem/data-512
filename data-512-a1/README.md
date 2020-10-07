@@ -17,11 +17,18 @@ Link to all relevant API documentation
 
 Describe the values of all fields in your final data file.
 
+| Column                  |    Format     |
+|-------------------------|:-------------:|
+| year                    |  YYYY         | 
+| month                   |  MM           | 
+| pagecount_all_views     | integer       | 
+| pagecount_desktop_views | integer       | 
+| pagecount_mobile_views  | integer       | 
+| pageview_all_views      | integer       | 
+| pageview_desktop_views  | integer       | 
+| pageview_mobile_views   | integer       | 
+
+
 List any known issues or special considerations with the data that would be useful for another researcher to know. For 
 example, you should describe that data from the Pageview API excludes spiders/crawlers, while data from the Pagecounts API does not.
 
-
-
-The license terms of the API is actually a complicated subject. 
-I'll be going into detail in the next lecture, but for now, it's fair to assume that the API responses are licensed by the same terms as all other Wikipedia content, provided at the footer of every Wikipedia page.
-Where to put it: have a header in your README called "Data sources" (or "Data Citations" or something similar) and cite any data sources and the license by which you use them.
