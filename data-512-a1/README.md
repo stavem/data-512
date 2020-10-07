@@ -2,7 +2,7 @@
 
 
 #### PROJECT GOALS
-The goal of this project is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1, 2008 through August 30, 2020.
+The goal of this project is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1, 2008 through August 30, 2020.  All extraction and manipulation is found in the file `A1_Data_Curation.ipynb`.
 
 #### DATA SOURCES
 All data has been pulled from the Wikimedia REST API under the  Creative Commons Attribution-ShareAlike License.
