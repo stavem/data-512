@@ -46,11 +46,3 @@ It uses this data to produce the following visualization:
 
 
 
-
-
-
-
-
-List any known issues or special considerations with the data that would be useful for another researcher to know. For 
-example, you should describe that data from the Pageview API excludes spiders/crawlers, while data from the Pagecounts API does not.
-
