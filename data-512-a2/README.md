@@ -38,7 +38,7 @@ RELATED LINKS:
 All data has been pulled from  Wikimedia under the  Creative Commons Attribution-ShareAlike License.
 https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
 
-
+---
 #### PYTHON LIBRARIES USED
 The analysis in this repository requires the following python packages:
 
