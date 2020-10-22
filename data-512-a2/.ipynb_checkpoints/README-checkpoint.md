@@ -20,6 +20,10 @@ This analysis finds significant variance in the labeling behvaior based on demog
 
 ---
 
+
+
+
+
 #### DATA SOURCES
 All data is available at:
 https://figshare.com/projects/Wikipedia_Talk/16731
@@ -33,3 +37,16 @@ RELATED LINKS:
 
 All data has been pulled from  Wikimedia under the  Creative Commons Attribution-ShareAlike License.
 https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+
+
+#### PYTHON LIBRARIES USED
+The analysis in this repository requires the following python packages:
+
+* Pandas
+|  https://pandas.pydata.org/
+
+* Seaborn
+| https://seaborn.pydata.org/  
+
+* NLTK (The Natural Language Toolkit)
+| https://www.nltk.org/
